@@ -9,3 +9,5 @@ Installation Instructions:
 - Paste it into the files of your choice. into any page/file that you wish to use it on. (You can NOT have it replacing what you currently have, you NEED to move that to a seperate file, then place this in.
 
 If you have any issues please contact me via Discord, AussieDoggo#9377.
+
+- Center Box based off of TailwindPlay 
